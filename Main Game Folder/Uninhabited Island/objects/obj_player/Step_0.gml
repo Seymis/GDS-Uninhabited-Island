@@ -35,7 +35,7 @@ if x_speed != 0 or y_speed != 0 {
 }
 //idle
 	else {
-		sprite_index = spr_idle;
+		image_index = 2;
 	}
 
 
