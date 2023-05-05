@@ -39,10 +39,10 @@
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},"order":1,},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
