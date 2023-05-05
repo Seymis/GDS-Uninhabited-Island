@@ -35,7 +35,7 @@ if x_speed != 0 or y_speed != 0 {
 }
 //idle
 	else {
-		image_index = 2;
+		sprite_index = spr_idle;
 	}
 
 
@@ -48,11 +48,5 @@ move_and_collide(x_speed, y_speed, all);
 
 //sort depth
 depth = -y;
-
-
-
-
-
-
 
 
