@@ -1,4 +1,5 @@
 /// @description fading in and out
-if y_position == -1 {
-	create_room_transition(25, rm_trophy, "fade");
+if obj_player.y == -1 {
+	show_debug_message("hello!");
+	//create_room_transition(25, rm_trophy, "fade");
 }

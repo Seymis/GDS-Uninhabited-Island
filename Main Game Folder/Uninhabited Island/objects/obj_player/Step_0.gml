@@ -47,6 +47,11 @@ if x_speed != 0 or y_speed != 0 {
 move_and_collide(x_speed, y_speed, all);
 
 //sort depth
-depth = -y;
+depth = -y
+
+// keep the player from leaving the room
+x = clamp(x,0, room_width);
+
+y= clamp(y,0,room_height); 
 
 
