@@ -17,11 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_shadowcast_wall","order":2,"path":"sprites/spr_shadowcast_wall/spr_shadowcast_wall.yy",},
     {"name":"spr_idle_down","order":4,"path":"sprites/spr_idle_down/spr_idle_down.yy",},
-    {"name":"obj_shadowcast_wall","order":2,"path":"objects/obj_shadowcast_wall/obj_shadowcast_wall.yy",},
     {"name":"spr_right","order":3,"path":"sprites/spr_right/spr_right.yy",},
-    {"name":"obj_shadowcast","order":1,"path":"objects/obj_shadowcast/obj_shadowcast.yy",},
     {"name":"spr_down","order":1,"path":"sprites/spr_down/spr_down.yy",},
     {"name":"spr_left","order":2,"path":"sprites/spr_left/spr_left.yy",},
   ],
