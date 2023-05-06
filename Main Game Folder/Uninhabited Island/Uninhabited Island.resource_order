@@ -20,6 +20,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"rm_maze","order":4,"path":"rooms/rm_maze/rm_maze.yy",},
+    {"name":"obj_oCamera","order":5,"path":"objects/obj_oCamera/obj_oCamera.yy",},
     {"name":"rm_furniture","order":1,"path":"rooms/rm_furniture/rm_furniture.yy",},
     {"name":"obj_shadowcast_control","order":1,"path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},
     {"name":"spr_idle_down","order":4,"path":"sprites/spr_idle_down/spr_idle_down.yy",},
