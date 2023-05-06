@@ -1,7 +1,7 @@
 /// @description  camera
 
-camWidth = 400;
-camHeight = 20;
+camWidth = 1280;
+camHeight = 720;
 
 follow = obj_player;
 
