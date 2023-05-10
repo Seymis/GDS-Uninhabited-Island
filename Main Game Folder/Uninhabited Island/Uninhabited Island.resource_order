@@ -30,6 +30,7 @@
     {"name":"rm_tile_puzzle","order":3,"path":"rooms/rm_tile_puzzle/rm_tile_puzzle.yy",},
     {"name":"spr_down","order":1,"path":"sprites/spr_down/spr_down.yy",},
     {"name":"spr_left","order":2,"path":"sprites/spr_left/spr_left.yy",},
+    {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_rectangle","order":3,"path":"sprites/spr_rectangle/spr_rectangle.yy",},
   ],
 }
