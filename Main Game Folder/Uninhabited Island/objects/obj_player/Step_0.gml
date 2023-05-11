@@ -44,14 +44,9 @@ if x_speed != 0 or y_speed != 0 {
 //y += y_speed;
 
 //move and colllide
-move_and_collide(x_speed, y_speed, obj_shadowcast_wall);
+move_and_collide(x_speed, y_speed, all);
 
 //sort depth
 depth = -y
-
-// keep the player from leaving the room
-x = clamp(x,0, room_width);
-
-y= clamp(y,0,room_height); 
 
 
