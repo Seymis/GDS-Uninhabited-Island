@@ -44,7 +44,7 @@ if x_speed != 0 or y_speed != 0 {
 //y += y_speed;
 
 //move and colllide
-move_and_collide(x_speed, y_speed, all);
+move_and_collide(x_speed, y_speed, obj_shadowcast_wall);
 
 //sort depth
 depth = -y
