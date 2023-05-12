@@ -1,3 +1,3 @@
 targetRoom = rm_hub;
-targetX = 98;
-targetY = 160;
+targetX = 118;
+targetY = 350;
