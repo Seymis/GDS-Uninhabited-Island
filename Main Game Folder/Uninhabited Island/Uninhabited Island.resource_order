@@ -23,7 +23,6 @@
     {"name":"obj_oCamera","order":5,"path":"objects/obj_oCamera/obj_oCamera.yy",},
     {"name":"rm_furniture","order":1,"path":"rooms/rm_furniture/rm_furniture.yy",},
     {"name":"obj_shadowcast_control","order":1,"path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},
-    {"name":"spr_idle_down","order":4,"path":"sprites/spr_idle_down/spr_idle_down.yy",},
     {"name":"rm_trophy","order":2,"path":"rooms/rm_trophy/rm_trophy.yy",},
     {"name":"spr_shadowcast_wall","order":2,"path":"sprites/spr_shadowcast_wall/spr_shadowcast_wall.yy",},
     {"name":"spr_right","order":3,"path":"sprites/spr_right/spr_right.yy",},

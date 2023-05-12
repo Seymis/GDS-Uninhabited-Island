@@ -40,7 +40,6 @@
     {"id":{"name":"spr_up","path":"sprites/spr_up/spr_up.yy",},"order":0,},
     {"id":{"name":"rm_furniture","path":"rooms/rm_furniture/rm_furniture.yy",},"order":1,},
     {"id":{"name":"obj_shadowcast_control","path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},"order":1,},
-    {"id":{"name":"spr_idle_down","path":"sprites/spr_idle_down/spr_idle_down.yy",},"order":4,},
     {"id":{"name":"obj_roomchange","path":"objects/obj_roomchange/obj_roomchange.yy",},"order":0,},
     {"id":{"name":"ts_wall","path":"tilesets/ts_wall/ts_wall.yy",},"order":0,},
     {"id":{"name":"rm_trophy","path":"rooms/rm_trophy/rm_trophy.yy",},"order":2,},
