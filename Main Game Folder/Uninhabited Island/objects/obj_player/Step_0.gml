@@ -12,6 +12,7 @@ y_speed = down - up;
 x_speed = x_speed * move_spd;
 y_speed = y_speed * move_spd;
 
+
 //animation
 if x_speed != 0 or y_speed != 0 {
 	//running

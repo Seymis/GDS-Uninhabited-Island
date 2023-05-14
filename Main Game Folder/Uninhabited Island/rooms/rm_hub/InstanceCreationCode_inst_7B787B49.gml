@@ -1,3 +1,3 @@
 targetRoom = rm_trophy;
-targetX = 528;
-targetY = 460;
+targetX = 200;
+targetY = 690;
