@@ -1,2 +1,2 @@
 /// @description movement
-move_spd = 5;
+move_spd = 4;

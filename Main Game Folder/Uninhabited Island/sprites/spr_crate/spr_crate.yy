@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_crate",
-  "bbox_bottom": 95,
+  "bbox_bottom": 96,
   "bbox_left": 0,
   "bbox_right": 95,
   "bbox_top": 53,

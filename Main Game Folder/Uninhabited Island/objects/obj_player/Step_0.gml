@@ -1,9 +1,4 @@
 
-//run
-//if keyboard_key_press(vk_shift) {
-//	move_spd = 8;
-//}
-
 //inputs
 var left = keyboard_check(vk_left);
 var right = keyboard_check(vk_right);
@@ -47,6 +42,6 @@ if x_speed != 0 or y_speed != 0 {
 move_and_collide(x_speed, y_speed, all);
 
 //sort depth
-depth = -y
+depth = -y;
 
 
