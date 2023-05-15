@@ -39,8 +39,9 @@ if x_speed != 0 or y_speed != 0 {
 //x += x_speed;
 //y += y_speed;
 
-//move and colllide
+//move and collide
 move_and_collide(x_speed, y_speed, all);
+
 
 //sort depth
 depth = -y;
