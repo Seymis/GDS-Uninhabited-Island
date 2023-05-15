@@ -1,5 +1,6 @@
 /// @description Insert description here
 //creates the orb and destroys the id
+
 if keyboard_check_pressed(vk_space) {
 
 	if place_meeting(x+32,y,obj_player) {
