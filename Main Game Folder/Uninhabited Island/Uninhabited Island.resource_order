@@ -21,8 +21,8 @@
   "ResourceOrderSettings": [
     {"name":"rm_maze","order":4,"path":"rooms/rm_maze/rm_maze.yy",},
     {"name":"spr_orb","order":8,"path":"sprites/spr_orb/spr_orb.yy",},
-    {"name":"obj_oCamera","order":5,"path":"objects/obj_oCamera/obj_oCamera.yy",},
     {"name":"obj_orb_source","order":8,"path":"objects/obj_orb_source/obj_orb_source.yy",},
+    {"name":"rm_hall","order":5,"path":"rooms/rm_hall/rm_hall.yy",},
     {"name":"rm_furniture","order":1,"path":"rooms/rm_furniture/rm_furniture.yy",},
     {"name":"obj_shadowcast_control","order":1,"path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},
     {"name":"spr_wallonly","order":7,"path":"sprites/spr_wallonly/spr_wallonly.yy",},

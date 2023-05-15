@@ -38,8 +38,8 @@
     {"id":{"name":"rm_maze","path":"rooms/rm_maze/rm_maze.yy",},"order":4,},
     {"id":{"name":"snd_footsteps","path":"sounds/snd_footsteps/snd_footsteps.yy",},"order":0,},
     {"id":{"name":"spr_orb","path":"sprites/spr_orb/spr_orb.yy",},"order":8,},
-    {"id":{"name":"obj_oCamera","path":"objects/obj_oCamera/obj_oCamera.yy",},"order":5,},
     {"id":{"name":"obj_orb_source","path":"objects/obj_orb_source/obj_orb_source.yy",},"order":8,},
+    {"id":{"name":"rm_hall","path":"rooms/rm_hall/rm_hall.yy",},"order":5,},
     {"id":{"name":"spr_up","path":"sprites/spr_up/spr_up.yy",},"order":0,},
     {"id":{"name":"rm_furniture","path":"rooms/rm_furniture/rm_furniture.yy",},"order":1,},
     {"id":{"name":"obj_shadowcast_control","path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},"order":1,},
@@ -72,6 +72,7 @@
     {"roomId":{"name":"rm_trophy","path":"rooms/rm_trophy/rm_trophy.yy",},},
     {"roomId":{"name":"rm_tile_puzzle","path":"rooms/rm_tile_puzzle/rm_tile_puzzle.yy",},},
     {"roomId":{"name":"rm_maze","path":"rooms/rm_maze/rm_maze.yy",},},
+    {"roomId":{"name":"rm_hall","path":"rooms/rm_hall/rm_hall.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
