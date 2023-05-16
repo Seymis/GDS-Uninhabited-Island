@@ -55,6 +55,7 @@
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},"order":3,},
     {"id":{"name":"ts_wallonly","path":"tilesets/ts_wallonly/ts_wallonly.yy",},"order":1,},
     {"id":{"name":"rm_tile_puzzle","path":"rooms/rm_tile_puzzle/rm_tile_puzzle.yy",},"order":3,},
+    {"id":{"name":"snd_orbChime","path":"sounds/snd_orbChime/snd_orbChime.yy",},"order":0,},
     {"id":{"name":"spr_down","path":"sprites/spr_down/spr_down.yy",},"order":1,},
     {"id":{"name":"scr_box_draw_shadow","path":"scripts/scr_box_draw_shadow/scr_box_draw_shadow.yy",},"order":0,},
     {"id":{"name":"spr_border","path":"sprites/spr_border/spr_border.yy",},"order":6,},
