@@ -7,6 +7,6 @@ or place_meeting(x+32,y,obj_player)
 or place_meeting(x-32,y,obj_player))
 {
 	room_goto(targetRoom);
-	all.x = targetX;
-	all.y = targetY;
+	obj_player.x = targetX;
+	obj_player.y = targetY;
 }

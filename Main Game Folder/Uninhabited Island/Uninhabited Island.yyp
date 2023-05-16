@@ -36,7 +36,6 @@
   },
   "resources": [
     {"id":{"name":"rm_maze","path":"rooms/rm_maze/rm_maze.yy",},"order":4,},
-    {"id":{"name":"snd_footsteps","path":"sounds/snd_footsteps/snd_footsteps.yy",},"order":0,},
     {"id":{"name":"spr_orb","path":"sprites/spr_orb/spr_orb.yy",},"order":8,},
     {"id":{"name":"obj_orb_source","path":"objects/obj_orb_source/obj_orb_source.yy",},"order":8,},
     {"id":{"name":"rm_hall","path":"rooms/rm_hall/rm_hall.yy",},"order":5,},
