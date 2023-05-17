@@ -1,3 +1,3 @@
 targetRoom = rm_hall;
-targetX = 60;
-targetY = 190;
+targetX = 100;
+targetY = 210;
