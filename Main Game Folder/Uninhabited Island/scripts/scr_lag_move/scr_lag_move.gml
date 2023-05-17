@@ -2,13 +2,15 @@
 // N is how many positions to track (the bigger, the more lag)
 function LagMove(tx, ty, spd, N) {
     // Setup array of positions
-    static Positions = {
-        x: [],
-        y: []
-    };
+	static Target = { x: 0, y: 0 };
+	static Positions = {
+	    x: [],
+	    y: []
+	};
+	
     // initlzie the array with all 0's
-    Positions.x[N] = 0;
-    Positions.y[N] = 0;
+   array_resize(Positions.x, N+1);
+   array_resize(Positions.y, N+1);
    
     // Shift all positions over by 1
     for(var i=N; i>0; i--) {
@@ -20,7 +22,6 @@ function LagMove(tx, ty, spd, N) {
     Positions.y[0] = ty;
    
     // Set Target Positions
-    static Target = {x: 0, y: 0};
     Target.x = Positions.x[N-1];
     Target.y = Positions.y[N-1];
    
@@ -28,8 +29,10 @@ function LagMove(tx, ty, spd, N) {
     // Actual Movement
     var dis = point_distance(x, y, Target.x, Target.y);
     if(dis > spd) {
+		
         // the angle from us to the target position
         var dir = point_direction(x, y, Target.x, Target.y);
+		
         // deltaX and deltaY we need to move to get to the Target position
         var dx = lengthdir_x(spd, dir);
         var dy = lengthdir_y(spd, dir);

@@ -52,6 +52,7 @@
     {"id":{"name":"rm_trophy","path":"rooms/rm_trophy/rm_trophy.yy",},"order":2,},
     {"id":{"name":"scr_lag_move","path":"scripts/scr_lag_move/scr_lag_move.yy",},"order":1,},
     {"id":{"name":"spr_shadowcast_wall","path":"sprites/spr_shadowcast_wall/spr_shadowcast_wall.yy",},"order":2,},
+    {"id":{"name":"obj_loader","path":"objects/obj_loader/obj_loader.yy",},"order":13,},
     {"id":{"name":"spr_right","path":"sprites/spr_right/spr_right.yy",},"order":3,},
     {"id":{"name":"ts_wallonly","path":"tilesets/ts_wallonly/ts_wallonly.yy",},"order":1,},
     {"id":{"name":"rm_tile_puzzle","path":"rooms/rm_tile_puzzle/rm_tile_puzzle.yy",},"order":3,},
@@ -60,6 +61,7 @@
     {"id":{"name":"scr_box_draw_shadow","path":"scripts/scr_box_draw_shadow/scr_box_draw_shadow.yy",},"order":0,},
     {"id":{"name":"spr_border","path":"sprites/spr_border/spr_border.yy",},"order":6,},
     {"id":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"order":7,},
+    {"id":{"name":"rm_setup","path":"rooms/rm_setup/rm_setup.yy",},"order":6,},
     {"id":{"name":"obj_shadowcast_wall","path":"objects/obj_shadowcast_wall/obj_shadowcast_wall.yy",},"order":0,},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},"order":2,},
     {"id":{"name":"obj_crate","path":"objects/obj_crate/obj_crate.yy",},"order":6,},
@@ -70,6 +72,7 @@
     {"id":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_setup","path":"rooms/rm_setup/rm_setup.yy",},},
     {"roomId":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},},
     {"roomId":{"name":"rm_furniture","path":"rooms/rm_furniture/rm_furniture.yy",},},
     {"roomId":{"name":"rm_trophy","path":"rooms/rm_trophy/rm_trophy.yy",},},
