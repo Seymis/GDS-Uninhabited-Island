@@ -19,13 +19,13 @@ if x_speed != 0 or y_speed != 0 {
 	if y_speed > 0 {
 		sprite_index = spr_down;
 	}
-	if y_speed < 0 {
+	else if y_speed < 0 {
 		sprite_index = spr_up;
 	}
-	if x_speed > 0 {
+	else if x_speed > 0 {
 		sprite_index = spr_right;
 	}
-	if x_speed < 0 {
+	else if x_speed < 0 {
 		sprite_index = spr_left;
 	}
 }

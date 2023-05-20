@@ -7,4 +7,5 @@ Room Transition Tutorial: Blobfish (https://www.youtube.com/watch?v=PE6sUVwjC40)
 Tileset Template: elimarand (https://www.deviantart.com/elimarand/art/Gamemaker-47tileset-32x-template-775091840)
 Sokoban base code: TraderJoJos/@aplovestudio (https://www.reddit.com/r/gamemaker/comments/tzyzr9/comment/i42syh8/)
 Orb SFX: Soundsnap (https://www.soundsnap.com/wind_chimes_aluminum_pipes_wood_clapper_and_aluminum_wind_catcher_metal_chain_and_twine_gentle_striking_short_tail_0)
-
+Girls Need Love BGM: Soundsnap - KATANOBEAT (https://www.soundsnap.com/stock-music/girls_need_love)
+Crate Slide SFX: Soundsnap (https://www.soundsnap.com/chair_wood_slide_out_carpet_blastwavefx_24452)
