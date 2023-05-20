@@ -27,6 +27,7 @@
     {"name":"rm_hall","order":5,"path":"rooms/rm_hall/rm_hall.yy",},
     {"name":"spr_transparent","order":10,"path":"sprites/spr_transparent/spr_transparent.yy",},
     {"name":"obj_music","order":14,"path":"objects/obj_music/obj_music.yy",},
+    {"name":"spr_transparentCollision","order":11,"path":"sprites/spr_transparentCollision/spr_transparentCollision.yy",},
     {"name":"rm_furniture","order":1,"path":"rooms/rm_furniture/rm_furniture.yy",},
     {"name":"obj_shadowcast_control","order":1,"path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},
     {"name":"spr_wallonly","order":7,"path":"sprites/spr_wallonly/spr_wallonly.yy",},

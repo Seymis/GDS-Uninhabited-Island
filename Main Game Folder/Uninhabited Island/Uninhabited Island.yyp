@@ -44,6 +44,7 @@
     {"id":{"name":"spr_transparent","path":"sprites/spr_transparent/spr_transparent.yy",},"order":10,},
     {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"order":14,},
     {"id":{"name":"spr_up","path":"sprites/spr_up/spr_up.yy",},"order":0,},
+    {"id":{"name":"spr_transparentCollision","path":"sprites/spr_transparentCollision/spr_transparentCollision.yy",},"order":11,},
     {"id":{"name":"rm_furniture","path":"rooms/rm_furniture/rm_furniture.yy",},"order":1,},
     {"id":{"name":"obj_shadowcast_control","path":"objects/obj_shadowcast_control/obj_shadowcast_control.yy",},"order":1,},
     {"id":{"name":"fnt_pixel","path":"fonts/fnt_pixel/fnt_pixel.yy",},"order":0,},

@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_shadowcast_wall",
-    "path": "sprites/spr_shadowcast_wall/spr_shadowcast_wall.yy",
+    "name": "spr_transparentCollision",
+    "path": "sprites/spr_transparentCollision/spr_transparentCollision.yy",
   },
   "spriteMaskId": null,
   "visible": true,
