@@ -1,3 +1,3 @@
 targetRoom = rm_furniture;
-targetX = 1108;
-targetY = 300;
+targetX = 1200;
+targetY = 290;

@@ -17,5 +17,5 @@
 	//Actual game window
 	window_set_size(display_width, display_height);
 
-	//Game GUI canvas - can be whatever you want
+	//Game GUI canvas
 	display_set_gui_size(width, height);

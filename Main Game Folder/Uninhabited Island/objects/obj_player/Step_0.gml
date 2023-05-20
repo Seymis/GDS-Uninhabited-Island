@@ -19,13 +19,13 @@ if x_speed != 0 or y_speed != 0 {
 	if y_speed > 0 {
 		sprite_index = spr_down;
 	}
-	else if y_speed < 0 {
+	if y_speed < 0 {
 		sprite_index = spr_up;
 	}
-	else if x_speed > 0 {
+	if x_speed > 0 {
 		sprite_index = spr_right;
 	}
-	else if x_speed < 0 {
+	if x_speed < 0 {
 		sprite_index = spr_left;
 	}
 }
@@ -34,14 +34,12 @@ if x_speed != 0 or y_speed != 0 {
 		image_index = 2;
 	}
 
+//move and collide
+move_and_collide(x_speed, y_speed, all);
 
 //do movement
 //x += x_speed;
 //y += y_speed;
-
-//move and collide
-move_and_collide(x_speed, y_speed, all);
-
 
 //sort depth
 depth = -y;

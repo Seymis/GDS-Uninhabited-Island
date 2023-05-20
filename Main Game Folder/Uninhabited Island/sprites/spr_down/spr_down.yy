@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_down",
   "bbox_bottom": 90,
-  "bbox_left": 21,
+  "bbox_left": 26,
   "bbox_right": 77,
   "bbox_top": 77,
   "bboxMode": 2,

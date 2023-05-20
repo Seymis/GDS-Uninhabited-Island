@@ -8,7 +8,7 @@ function LagMove(tx, ty, spd, N) {
 	    y: []
 	};
 	
-    // initlzie the array with all 0's
+    // initalise the array with all 0's
    array_resize(Positions.x, N+1);
    array_resize(Positions.y, N+1);
    
