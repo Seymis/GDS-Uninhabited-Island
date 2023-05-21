@@ -31,11 +31,30 @@ if x_speed != 0 or y_speed != 0 {
 }
 //idle
 	else {
-		image_index = 2;
+		image_index = 1;
 	}
 
 //move and collide
-move_and_collide(x_speed, y_speed, all);
+//move_and_collide(x_speed, y_speed, all);
+
+//collision
+if place_meeting(x+x_speed,y,prt_collision) {
+    x = round(x);
+    while !place_meeting(x+sign(x_speed),y,prt_collision)
+        x += sign(x_speed);
+    x_speed = 0;
+}
+x += x_speed;
+
+if place_meeting(x,y+y_speed,prt_collision) {
+    y = round(y);
+    while !place_meeting(x,y+sign(y_speed),prt_collision)
+        y += sign(y_speed);
+    y_speed = 0;
+}
+y += y_speed; 
+
+
 
 //do movement
 //x += x_speed;
@@ -43,5 +62,4 @@ move_and_collide(x_speed, y_speed, all);
 
 //sort depth
 depth = -y;
-
 

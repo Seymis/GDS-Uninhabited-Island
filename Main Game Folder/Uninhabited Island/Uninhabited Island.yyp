@@ -67,6 +67,7 @@
     {"id":{"name":"obj_border","path":"objects/obj_border/obj_border.yy",},"order":7,},
     {"id":{"name":"rm_setup","path":"rooms/rm_setup/rm_setup.yy",},"order":6,},
     {"id":{"name":"obj_shadowcast_wall","path":"objects/obj_shadowcast_wall/obj_shadowcast_wall.yy",},"order":0,},
+    {"id":{"name":"prt_collision","path":"objects/prt_collision/prt_collision.yy",},"order":16,},
     {"id":{"name":"snd_slideSFX","path":"sounds/snd_slideSFX/snd_slideSFX.yy",},"order":2,},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},"order":2,},
     {"id":{"name":"obj_crate","path":"objects/obj_crate/obj_crate.yy",},"order":6,},

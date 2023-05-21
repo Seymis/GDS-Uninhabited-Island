@@ -43,6 +43,7 @@
     {"name":"spr_border","order":6,"path":"sprites/spr_border/spr_border.yy",},
     {"name":"obj_border","order":7,"path":"objects/obj_border/obj_border.yy",},
     {"name":"rm_setup","order":6,"path":"rooms/rm_setup/rm_setup.yy",},
+    {"name":"prt_collision","order":16,"path":"objects/prt_collision/prt_collision.yy",},
     {"name":"snd_slideSFX","order":2,"path":"sounds/snd_slideSFX/snd_slideSFX.yy",},
     {"name":"spr_left","order":2,"path":"sprites/spr_left/spr_left.yy",},
     {"name":"obj_crate","order":6,"path":"objects/obj_crate/obj_crate.yy",},

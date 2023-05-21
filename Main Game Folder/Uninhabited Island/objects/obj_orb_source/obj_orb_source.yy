@@ -12,7 +12,10 @@
     "name": "Orbs",
     "path": "folders/Objects/Orbs.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "prt_collision",
+    "path": "objects/prt_collision/prt_collision.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
