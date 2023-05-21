@@ -9,3 +9,4 @@ Sokoban base code: TraderJoJos/@aplovestudio (https://www.reddit.com/r/gamemaker
 Orb SFX: Soundsnap (https://www.soundsnap.com/wind_chimes_aluminum_pipes_wood_clapper_and_aluminum_wind_catcher_metal_chain_and_twine_gentle_striking_short_tail_0)
 Girls Need Love BGM: Soundsnap - KATANOBEAT (https://www.soundsnap.com/stock-music/girls_need_love)
 Crate Slide SFX: Soundsnap (https://www.soundsnap.com/chair_wood_slide_out_carpet_blastwavefx_24452)
+Footstep SFX: Soundsnap (https://www.soundsnap.com/foley_impact_mud_suction_01)
