@@ -1,9 +1,9 @@
 
 //inputs
-var left = keyboard_check(vk_left);
-var right = keyboard_check(vk_right);
-var up = keyboard_check(vk_up);
-var down = keyboard_check(vk_down);
+var left = keyboard_check(vk_left) or keyboard_check(ord("A"));
+var right = keyboard_check(vk_right) or keyboard_check(ord("D"));
+var up = keyboard_check(vk_up) or keyboard_check(ord("W"));
+var down = keyboard_check(vk_down) or keyboard_check(ord("S"));
 
 //calculate movement
 x_speed = right - left;
