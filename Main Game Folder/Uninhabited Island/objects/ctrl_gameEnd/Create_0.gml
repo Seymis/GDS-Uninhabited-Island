@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-//orb counter
-draw_set_font(fnt_pixel);
-global.orbCounter = 0;
+can_fade = 0;
+fade_timer = 0;
+fade_timer_max = room_speed * 3;
