@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Objects.yy",
+    "path": "folders/Objects/Objects.yy",
   },
   "parentObjectId": {
     "name": "prt_collision",
