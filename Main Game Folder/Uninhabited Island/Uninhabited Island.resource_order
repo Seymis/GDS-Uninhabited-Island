@@ -6,6 +6,7 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Controllers","order":19,"path":"folders/Objects/Controllers.yy",},
+    {"name":"Furniture","order":21,"path":"folders/Objects/Furniture.yy",},
     {"name":"Lighting","order":3,"path":"folders/Objects/Lighting.yy",},
     {"name":"Objects","order":20,"path":"folders/Objects/Objects.yy",},
     {"name":"Orbs","order":11,"path":"folders/Objects/Orbs.yy",},
@@ -22,7 +23,6 @@
     {"name":"Player Sprites","order":1,"path":"folders/Sprites/Player Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Furniture","order":21,"path":"folders/Objects/Furniture.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"rm_maze","order":4,"path":"rooms/rm_maze/rm_maze.yy",},
