@@ -1,3 +1,3 @@
 targetRoom = rm_tile_puzzle;
-targetX = 200;
+targetX = 640;
 targetY = 650;
