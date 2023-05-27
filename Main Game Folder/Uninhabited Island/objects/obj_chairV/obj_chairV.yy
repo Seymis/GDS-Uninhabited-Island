@@ -1,17 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "prt_collision",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_chairV",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Controllers",
-    "path": "folders/Objects/Controllers.yy",
+    "name": "Furniture",
+    "path": "folders/Objects/Furniture.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "prt_collision",
+    "path": "objects/prt_collision/prt_collision.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -27,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Fspr_ChairV",
+    "path": "sprites/Fspr_ChairV/Fspr_ChairV.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

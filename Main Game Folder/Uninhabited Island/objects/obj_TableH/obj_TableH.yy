@@ -1,17 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "prt_collision",
+  "name": "obj_TableH",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Controllers",
-    "path": "folders/Objects/Controllers.yy",
+    "name": "Furniture",
+    "path": "folders/Objects/Furniture.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "prt_collision",
+    "path": "objects/prt_collision/prt_collision.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -27,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Fspr_TableH",
+    "path": "sprites/Fspr_TableH/Fspr_TableH.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
