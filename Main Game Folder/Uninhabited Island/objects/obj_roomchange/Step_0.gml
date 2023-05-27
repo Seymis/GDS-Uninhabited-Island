@@ -13,6 +13,6 @@ or place_meeting(x-32,y,obj_player))
 	//if there is an orb, 
 	if instance_exists(obj_orb){ 
 		obj_orb.x = targetX  - random_range(1, 10);
-		obj_orb.y = targetY - random_range(2,15);
+		obj_orb.y = targetY - random_range(60,150);
 	}
 }
