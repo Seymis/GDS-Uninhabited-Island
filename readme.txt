@@ -11,3 +11,4 @@ Girls Need Love BGM: Soundsnap - KATANOBEAT (https://www.soundsnap.com/stock-mus
 Crate Slide SFX: Soundsnap (https://www.soundsnap.com/chair_wood_slide_out_carpet_blastwavefx_24452)
 Footstep SFX: Soundsnap (https://www.soundsnap.com/foley_impact_mud_suction_01)
 Top-down Retro Interior House: Penzilla (https://penzilla.itch.io/top-down-retro-house)
+Footstep Pitch SFX: Kyon (https://forum.gamemaker.io/index.php?threads/adding-a-footstep-sound-effect.30801/post-375306)
