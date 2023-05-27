@@ -68,6 +68,7 @@
     {"id":{"name":"obj_roomchange","path":"objects/obj_roomchange/obj_roomchange.yy",},"order":0,},
     {"id":{"name":"Fspr_RTableH","path":"sprites/Fspr_RTableH/Fspr_RTableH.yy",},"order":4,},
     {"id":{"name":"spr_wallonly","path":"sprites/spr_wallonly/spr_wallonly.yy",},"order":10,},
+    {"id":{"name":"snd_footstep","path":"sounds/snd_footstep/snd_footstep.yy",},"order":3,},
     {"id":{"name":"Fspr_RugV","path":"sprites/Fspr_RugV/Fspr_RugV.yy",},"order":7,},
     {"id":{"name":"Fspr_TableH","path":"sprites/Fspr_TableH/Fspr_TableH.yy",},"order":1,},
     {"id":{"name":"ts_wall","path":"tilesets/ts_wall/ts_wall.yy",},"order":0,},

@@ -46,6 +46,7 @@
     {"name":"Fspr_ChairV","order":9,"path":"sprites/Fspr_ChairV/Fspr_ChairV.yy",},
     {"name":"Fspr_RTableH","order":4,"path":"sprites/Fspr_RTableH/Fspr_RTableH.yy",},
     {"name":"spr_wallonly","order":10,"path":"sprites/spr_wallonly/spr_wallonly.yy",},
+    {"name":"snd_footstep","order":3,"path":"sounds/snd_footstep/snd_footstep.yy",},
     {"name":"Fspr_RugV","order":7,"path":"sprites/Fspr_RugV/Fspr_RugV.yy",},
     {"name":"Fspr_TableH","order":1,"path":"sprites/Fspr_TableH/Fspr_TableH.yy",},
     {"name":"rm_trophy","order":2,"path":"rooms/rm_trophy/rm_trophy.yy",},
