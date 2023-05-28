@@ -3,4 +3,4 @@
 /// @description orb
 
 draw_self();
-draw_text(60, 40, "Orbs: " + string(global.orbCounter) + "/4");
+draw_text(60, 40, string(global.orbCounter) + "/4");
