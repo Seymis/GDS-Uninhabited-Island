@@ -64,7 +64,7 @@ y += y_speed;
 depth = -y;
 
 //footsteps
-if (obj_player.image_index == 2) or (obj_player.image_index == 4){
+if (floor(obj_player.image_index == 2)) or (floor(obj_player.image_index == 4)){
 	audio_play_sound(snd_footstep, 1, false);
 	p = random_range(0.4,0.9);
 	audio_sound_pitch(snd_footstep, p);
